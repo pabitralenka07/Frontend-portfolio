@@ -148,9 +148,9 @@ Want to personalize this template for your own developer brand? Here is a quick 
 
 - 📍 **Location**: Odisha, India
 - 📧 **Email**: [pabitralenka489@gmail.com](mailto:pabitralenka489@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/pabitra-lenka-777423324/e)
-- 🐙 **GitHub**: [github.com/yourusername](https://github.com/pabitralenka07)
-- 📸 **Instagram**: [instagram.com/yourusername](https://www.instagram.com/__lenka_babu._?igsh=MXZyODBoenlvOHZ1dQ==e)
+- 💼 **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/pabitra-lenka-777423324/e)
+- 🐙 **GitHub**: [github.com](https://github.com/pabitralenka07)
+- 📸 **Instagram**: [instagram.com](https://www.instagram.com/__lenka_babu._?igsh=MXZyODBoenlvOHZ1dQ==e)
 
 ---
 
