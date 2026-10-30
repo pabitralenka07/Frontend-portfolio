@@ -138,23 +138,7 @@ Want to personalize this template for your own developer brand? Here is a quick 
 6. **Styling & Accents**:
    - Tweak color variables and themes in [`style.css`](./style.css) to match your personal aesthetic.
 
----
 
-## 🚢 Deployment
-
-You can deploy this website for free in under 2 minutes:
-
-### Option 1: GitHub Pages (Recommended)
-1. Push your repository to GitHub.
-2. In your repo, go to **Settings** > **Pages**.
-3. Under **Branch**, select `main` (or `master`) and folder `/ (root)`.
-4. Click **Save**. Your site will be live at `https://<your-username>.github.io/<repo-name>/`.
-
-### Option 2: Vercel / Netlify
-1. Go to [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
-2. Import your GitHub repository.
-3. Set root directory to `./` (no build command or output directory needed).
-4. Click **Deploy**.
 
 ---
 
@@ -164,9 +148,9 @@ You can deploy this website for free in under 2 minutes:
 
 - 📍 **Location**: Odisha, India
 - 📧 **Email**: [pabitralenka489@gmail.com](mailto:pabitralenka489@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- 📸 **Instagram**: [instagram.com/yourusername](https://instagram.com/yourusername)
+- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/pabitra-lenka-777423324/e)
+- 🐙 **GitHub**: [github.com/yourusername](https://github.com/pabitralenka07)
+- 📸 **Instagram**: [instagram.com/yourusername](https://www.instagram.com/__lenka_babu._?igsh=MXZyODBoenlvOHZ1dQ==e)
 
 ---
 
